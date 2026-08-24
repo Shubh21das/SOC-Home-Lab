@@ -38,7 +38,7 @@ soc-home-lab/
 
 | Day | Focus | Link |
 |---|---|---|
-| Day 1 | 3-VM lab setup (Wazuh manager + Windows + Linux endpoints), Wazuh SIEM deployment, agent onboarding, Sysmon install, first alert investigation (user creation → permission change → deletion) | [day-logs/day-01.md](day-logs/day-01.pdf) |
+| Day 1 | 3-VM lab setup (Wazuh manager + Windows + Linux endpoints), Wazuh SIEM deployment, agent onboarding, Sysmon install, first alert investigation (user creation → permission change → deletion) | [day-logs/day-01.pdf](day-logs/day-01.pdf) |
 
 *(Updated daily — new entries added as the lab progresses.)*
 
