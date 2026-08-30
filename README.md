@@ -39,6 +39,7 @@ soc-home-lab/
 | Day | Focus | Link |
 |---|---|---|
 | Day 1 | 3-VM lab setup (Wazuh manager + Windows + Linux endpoints), Wazuh SIEM deployment, agent onboarding, Sysmon install, first alert investigation (user creation → permission change → deletion) | [day-logs/day-01.pdf](day-logs/day-01.pdf) |
+| Day 2 | Windows security event analysis, Wazuh DQL queries, Event ID investigation (4720, 4722, 4723, 4724, 4725, 4726, 4732, 4733, 4738), MITRE ATT&CK mapping, and custom dashboard creation with alert trend, severity, agent, and Windows event visualizations | [day-logs/day-02-Dashboard-Creation.pdf](day-logs/day-02-Dashboard-Creation.pdf) |
 
 *(Updated daily — new entries added as the lab progresses.)*
 
